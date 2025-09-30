@@ -1,0 +1,4 @@
+report_id,patient_id,report_text
+1,1001,"MRI brain shows no acute intracranial hemorrhage. Mild chronic microvascular ischemic changes in periventricular white matter."
+2,1002,"Chest X-ray reveals cardiomegaly with mild bilateral pleural effusion. No focal consolidation."
+3,1003,"Abdominal ultrasound shows a 2.1 cm simple cyst in the right kidney. Liver parenchyma is within normal limits."
